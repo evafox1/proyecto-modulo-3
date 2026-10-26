@@ -17,14 +17,14 @@ El programa debe:
 
 Presentación: 
 
-Declaración de uso de AI  
+Declaración de uso de AI   
 Declaro que he utilizado herramientas de IA para buscar información necesaria para llevar acabo el problema de la forma esperada.  
 Adjunto los prompts utilizados como evidencia.  
  
 Prompt no.1  
 Actualmente estoy utilizando una variable llamada mayor = 0 para guardar el precio más alto. ¿Qué otra variable necesitaría para guardar el nombre del producto que tenga ese precio? ¿Cómo debería inicializarla antes de comenzar el ciclo while?
 
-Respuesta de IA
+Respuesta de IA   
 Puedes utilizar una variable de tipo texto llamada producto_caro e inicializarla con una cadena vacía:
 producto_caro = "" 
 Las comillas indican que es una variable de tipo cadena (str). Inicialmente no contiene ningún nombre, pero posteriormente puedes asignarle el nombre del producto que tenga el precio más alto. 
@@ -35,7 +35,7 @@ Además de identificar el producto más caro, quiero que mi programa pueda conse
 No quiero utilizar muchas variables diferentes para guardar cada producto. 
 ¿Existe alguna manera sencilla de almacenar varios productos con sus respectivos precios utilizando Python? 
 
-Respuesta de IA 
+Respuesta de IA  
 Sí. Puedes utilizar una lista vacía para almacenar varios productos: 
 productos = [] 
 Los corchetes [] representan una lista vacía. Una lista permite guardar varios elementos dentro de una misma variable. 
@@ -55,7 +55,7 @@ Prompt no 4.
 ¿Existe alguna función de Python que me permita conocer cuántos elementos contiene una lista? 
 ¿Cómo podría utilizarla dentro de un print con f-string? 
 
-Respuesta IA
+Respuesta IA 
 Puedes utilizar la función len(), que permite conocer la cantidad de elementos que contiene una lista. 
 Por ejemplo: 
 len(productos) 
