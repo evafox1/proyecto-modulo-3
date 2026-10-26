@@ -30,7 +30,7 @@ producto_caro = ""
 Las comillas indican que es una variable de tipo cadena (str). Inicialmente no contiene ningún nombre, pero posteriormente puedes asignarle el nombre del producto que tenga el precio más alto. 
 producto_caro = nombre_producto 
  
-Prompt no 2.  
+Prompt no 2  
 Además de identificar el producto más caro, quiero que mi programa pueda conservar los nombres y precios de todos los productos que ingrese el usuario. 
 No quiero utilizar muchas variables diferentes para guardar cada producto. 
 ¿Existe alguna manera sencilla de almacenar varios productos con sus respectivos precios utilizando Python? 
@@ -40,7 +40,7 @@ Sí. Puedes utilizar una lista vacía para almacenar varios productos:
 productos = [] 
 Los corchetes [] representan una lista vacía. Una lista permite guardar varios elementos dentro de una misma variable. 
 
-Prompt no 3 
+Prompt no 3  
 Tomando en cuenta que ahora tengo una lista llamada productos = [], 
 ¿cómo puedo hacer para que cada vez que el usuario ingrese un producto y su precio, ambos datos se guarden dentro de esa lista? 
 Quiero que el programa conserve todos los registros mientras el ciclo while sigue funcionando, sin borrar los productos anteriores. 
@@ -51,7 +51,7 @@ En tu programa puedes escribir:
 productos.append([nombre_producto, precio]) 
 Esto agrega una nueva lista con el nombre y el precio del producto dentro de productos. 
  
-Prompt no 4.  
+Prompt no 4   
 ¿Existe alguna función de Python que me permita conocer cuántos elementos contiene una lista? 
 ¿Cómo podría utilizarla dentro de un print con f-string? 
 
