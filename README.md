@@ -25,7 +25,7 @@ Prompt no.1
 Actualmente estoy utilizando una variable llamada mayor = 0 para guardar el precio más alto. ¿Qué otra variable necesitaría para guardar el nombre del producto que tenga ese precio? ¿Cómo debería inicializarla antes de comenzar el ciclo while?
 
 Respuesta de IA   
-Puedes utilizar una variable de tipo texto llamada producto_caro e inicializarla con una cadena vacía:
+Puedes utilizar una variable de tipo texto llamada producto_caro e inicializarla con una cadena vacía: 
 producto_caro = "" 
 Las comillas indican que es una variable de tipo cadena (str). Inicialmente no contiene ningún nombre, pero posteriormente puedes asignarle el nombre del producto que tenga el precio más alto. 
 producto_caro = nombre_producto 
