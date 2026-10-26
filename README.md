@@ -26,10 +26,14 @@ Actualmente estoy utilizando una variable llamada mayor = 0 para guardar el prec
 
 Respuesta de IA   
 Puedes utilizar una variable de tipo texto llamada producto_caro e inicializarla con una cadena vacía: 
-producto_caro = "" 
-Las comillas indican que es una variable de tipo cadena (str). Inicialmente no contiene ningún nombre, pero posteriormente puedes asignarle el nombre del producto que tenga el precio más alto. 
-producto_caro = nombre_producto 
  
+producto_caro = "" 
+ 
+Las comillas indican que es una variable de tipo cadena (str). Inicialmente no contiene ningún nombre, pero posteriormente puedes asignarle el nombre del producto que tenga el precio más alto. 
+ 
+producto_caro = nombre_producto 
+
+  
 Prompt no 2  
 Además de identificar el producto más caro, quiero que mi programa pueda conservar los nombres y precios de todos los productos que ingrese el usuario. 
 No quiero utilizar muchas variables diferentes para guardar cada producto. 
