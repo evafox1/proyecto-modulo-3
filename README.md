@@ -51,7 +51,7 @@ En tu programa puedes escribir:
 productos.append([nombre_producto, precio]) 
 Esto agrega una nueva lista con el nombre y el precio del producto dentro de productos. 
  
-Prompt no 4.
+Prompt no 4. 
 ¿Existe alguna función de Python que me permita conocer cuántos elementos contiene una lista? 
 ¿Cómo podría utilizarla dentro de un print con f-string? 
 
