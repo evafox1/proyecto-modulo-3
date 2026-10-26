@@ -40,7 +40,7 @@ Sí. Puedes utilizar una lista vacía para almacenar varios productos:
 productos = [] 
 Los corchetes [] representan una lista vacía. Una lista permite guardar varios elementos dentro de una misma variable. 
 
-Prompt no 3.  
+Prompt no 3 
 Tomando en cuenta que ahora tengo una lista llamada productos = [], 
 ¿cómo puedo hacer para que cada vez que el usuario ingrese un producto y su precio, ambos datos se guarden dentro de esa lista? 
 Quiero que el programa conserve todos los registros mientras el ciclo while sigue funcionando, sin borrar los productos anteriores. 
