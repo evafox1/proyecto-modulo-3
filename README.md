@@ -3,9 +3,9 @@
 Proyecto Módulo 3: Control de Inventario 
  
 Eva Maria Yared Fox Gomez  
-Número de control: 26491034 
-Mariana Cecilia Mateo Hernández 
-Número de control: 26491031 
+Número de control: 26491034   
+Mariana Cecilia Mateo Hernández   
+Número de control: 26491031  
 26 de octubre de 2026  
 
 El programa debe resolver un problema cotidiano usando estructuras de control de flujo. 
