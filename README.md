@@ -26,7 +26,7 @@ Adjunto los prompts utilizados como evidencia.
 Prompt no.1  
 Actualmente estoy utilizando una variable llamada mayor = 0 para guardar el precio más alto. ¿Qué otra variable necesitaría para guardar el nombre del producto que tenga ese precio? ¿Cómo debería inicializarla antes de comenzar el ciclo while?
 
-Respuesta de IA   
+Respuesta de IA:   
 Puedes utilizar una variable de tipo texto llamada producto_caro e inicializarla con una cadena vacía: 
  
 producto_caro = "" 
@@ -43,7 +43,7 @@ No quiero utilizar muchas variables diferentes para guardar cada producto.
  
 ¿Existe alguna manera sencilla de almacenar varios productos con sus respectivos precios utilizando Python? 
  
-Respuesta de IA  
+Respuesta de IA:  
 Sí. Puedes utilizar una lista vacía para almacenar varios productos: 
  
 productos = [] 
@@ -57,7 +57,7 @@ Tomando en cuenta que ahora tengo una lista llamada productos = [],
  
 Quiero que el programa conserve todos los registros mientras el ciclo while sigue funcionando, sin borrar los productos anteriores. 
 
-Respuesta IA 
+Respuesta IA: 
 Puedes utilizar el método .append(), que permite agregar un nuevo elemento al final de una lista. 
  
 En tu programa puedes escribir: 
@@ -71,7 +71,7 @@ Prompt no. 4
  
 ¿Cómo podría utilizarla dentro de un print con f-string? 
  
-Respuesta IA 
+Respuesta IA: 
 Puedes utilizar la función len(), que permite conocer la cantidad de elementos que contiene una lista. 
  
 Por ejemplo: 
