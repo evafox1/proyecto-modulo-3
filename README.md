@@ -17,7 +17,8 @@ El programa debe:
 3. Usar estructuras iterativas (while o for) para repetir procesos. 
 4. Mostrar resultados con print() y f-strings. 
 
-Presentación: 
+Presentación: https://www.youtube.com/watch?v=lyeyfNbS-nU 
+  
 
 Declaración de uso de AI   
 Declaro que he utilizado herramientas de IA para buscar información necesaria para llevar acabo el problema de la forma esperada.  
